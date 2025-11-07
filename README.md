@@ -16,3 +16,5 @@
 — выполнение [3 фазы](https://github.com/JawharVal/pm_practics_26/tree/main/phase_3)
 
 — выполнение [4 фазы](https://github.com/JawharVal/pm_practics_26/tree/main/phase_4)
+
+— выполнение [5 фазы](https://github.com/JawharVal/pm_practics_26/tree/main/phase_5)
